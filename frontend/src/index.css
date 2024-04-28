@@ -1,0 +1,17 @@
+.voteUp i:hover {
+    color: bisque;
+    cursor: pointer;
+}
+
+.voteDown i:hover {
+    color: bisque;
+    cursor: pointer;
+}
+
+pre.ql-syntax {
+    background-color: #23241f;
+    color: #f8f8f2;
+    overflow: hidden;
+    border-radius: 5px;
+    padding: 35px;
+}
